@@ -1,0 +1,19 @@
+{
+  "name": "hideisms",
+  "version": "0.0.1",
+  "description": "A tool that hides the ISMs for quicker QA process.",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackiepareja/hideIsm-.git"
+  },
+  "author": "jackie pareja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackiepareja/hide-ism-tool/issues"
+  },
+  "homepage": "https://github.com/jackiepareja/hide-ism-tool#readme"
+}
