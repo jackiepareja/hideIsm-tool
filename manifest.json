@@ -4,6 +4,7 @@
   "version": "0.0.1",
   "content_scripts": [
     {
+      "run_at": "document_end",
       "matches": [
         "<all_urls>"
       ],
