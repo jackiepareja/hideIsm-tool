@@ -28,7 +28,7 @@ chrome.runtime.onMessage.addListener(
 
           // let call = "/resources/productSearch/v1/search?isFacetsEnabled=false&pageId=0&cid=1185272"
 
-          var apiKeyHeader = 'AcMF0EUkgmGA8GVOeouRpDzSDhHCfsOv';
+          var apiKeyHeader = process.env.API_KEY;
 
           jQuery.ajaxSetup({
             headers: {
